@@ -1,1 +1,1 @@
-# EDA-Of-Netlix-Movies-and-TV-Shows
+This notebook presents an exploratory data analysis of the Netflix Movies and TV Shows dataset sourced from Kaggle. Throughout this analysis, I utilize pandas, matplotlib, and seaborn to visualize the data and draw meaningful insights. You can access the original dataset at: https://www.kaggle.com/shivamb/netflix-shows
